@@ -1,0 +1,13 @@
+#common bot login names
+admin
+wp_admin
+administrator
+root
+test
+testing
+user
+#sitename no domain if example.com is example
+support
+[login]
+indoxploit
+login
