@@ -1,4 +1,5 @@
 #common bot login names
+#sitename no domain if example.com is example
 admin
 wp_admin
 administrator
@@ -6,9 +7,10 @@ root
 test
 testing
 user
-#sitename no domain if example.com is example
 support
 [login]
 indoxploit
 admin1
 login
+demo
+garak
